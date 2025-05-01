@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "name": "Lan",
+    "time": 14,
+    "moves": 10,
+    "boardSize": "small",
+    "date": "2025-05-01T05:57:26.261Z"
+  }
+]
