@@ -1,5 +1,6 @@
 {
   "wins": 3,
   "loses": 0,
-  "attempts": 5
+  "attempts": 5,
+  "losses": null
 }
